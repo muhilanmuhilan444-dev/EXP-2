@@ -62,6 +62,7 @@ Model graph:
 
   
 Load Characteristics:
+
 circuit Diagram:
  ![571084249-d7c5f598-5563-450f-912e-4196d2842ba6](https://github.com/user-attachments/assets/21c169e4-eab0-404e-8ef5-d591e3aee5dd)
  
@@ -72,6 +73,7 @@ Model graph:
 ![571083780-88269208-9aa6-4fa7-9710-ba1813faea2f](https://github.com/user-attachments/assets/5fe56e2e-54e6-4bf8-b96b-c850c47f9a82)
 
 output:-
+
 Open circuit characteristics
 
 <img width="1335" height="760" alt="571083624-8fc61635-d281-4898-9591-a3d5742cce73" src="https://github.com/user-attachments/assets/8d2ac476-d55d-4797-8275-f458401c5b9c" />
